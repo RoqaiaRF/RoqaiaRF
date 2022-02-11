@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoqaiaRF
 - 👀 I’m interested in Node js, Unreal Engine & Machine Learning
-- 🌱 I’m currently learning node js
+- 🌱 I’m currently learning Next js
 - 📫 How to reach me : qoraia97@gmail.com
 
 <!---

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RoqaiaRF
+- 👋 Hi, I’m Roqaia Alrfou from Jordan
 - 👀 I’m interested in Node js, Unreal Engine & Machine Learning
 - 🌱 I’m currently learning Next js
 - 📫 How to reach me : qoraia97@gmail.com

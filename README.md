@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Node JS**
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Nest JS**
 
-- 🤝 I’m looking for help with **Next JS**
+- 🤝 I’m looking for help with **Nest JS**
 
 - 👨‍💻 All of my projects are available at [https://roqaia-alrfou.vercel.app/](https://roqaia-alrfou.vercel.app/)
 
